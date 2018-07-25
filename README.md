@@ -6,6 +6,6 @@
 4. Inside server folder run `nodemon`
 5. Inside client folder run `npm start`
 
-#h4Tests
+Tests:
 1. Inside client folder run `npm run test`
 2. Inside server folder run `npm run test`
